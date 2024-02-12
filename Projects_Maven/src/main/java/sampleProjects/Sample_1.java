@@ -11,7 +11,7 @@ public class Sample_1 {
 //	obj.replace(1,5,"kkk");//DkkkaraSandeep
 //	obj.delete(0,5);
 //	obj.delete(0, 1);
-	System.out.println(obj);  //
+	System.out.println(obj);  
 	
 	}
 	
